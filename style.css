@@ -106,3 +106,24 @@ footer {
     font-size: 0.9rem;
     color: #777;
 }
+
+/* Logo Styling Rules */
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.club-logo {
+    height: 95px;       /* Keeps the height neat in the nav bar */
+    width: auto;        /* Preserves the shield ratio */
+    border-radius: 4px; /* Optional slight smooth edges */
+    background: white;  /* Gives it a clean backing if nav is dark */
+    padding: 2px;
+}
+
+.logo-text {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: white;
+}
