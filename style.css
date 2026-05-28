@@ -57,7 +57,7 @@ nav {
     margin-bottom: 2rem;
 }
 h1, h2 {
-    color: #0d233a;
+    color: #006400;
     margin-bottom: 1rem;
 }
 h2 {
@@ -82,11 +82,11 @@ hr {
     padding: 1rem;
     background: #f8fafc;
     margin-bottom: 0.5rem;
-    border-left: 4px solid #0d233a;
+    border-left: 4px solid #006400;
     border-radius: 4px;
 }
 .download-btn {
-    background-color: #0d233a;
+    background-color: #006400;
     color: white;
     text-decoration: none;
     padding: 0.5rem 1rem;
@@ -96,7 +96,7 @@ hr {
 }
 .download-btn:hover {
     background-color: #f2a900;
-    color: #0d233a;
+    color: #006400;
 }
 
 /* Footer */
